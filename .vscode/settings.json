@@ -1,5 +1,0 @@
-{
-  "csharpextensions.includeNamespaces": false,
-  "csharpextensions.useFileScopedNamespace": false,
-  "dotnet.server.useOmnisharp": true
-}
